@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: 赵荣 - 简历
+---
 
-You can use the [editor on GitHub](https://github.com/jugheadzhou/jugheadzhou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 赵荣
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**男 | 28岁**  
+📱 15328417106 | 📧 [jugheadzhou@foxmail.com](mailto:jugheadzhou@foxmail.com)  
+📍 期望城市：成都 | 💼 7年工作经验 | 技术栈：Java
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🔍 个人优势
+- **架构设计**：主导微服务架构演进，擅长数据驱动、消息驱动架构设计
+- **技术深度**：精通Spring Cloud生态
+- **工程效能**：从0到1构建基础服务（网关/长连接/消息中心），优化核心功能至毫秒级响应
+- **技术视野**：推动AI Agent服务等前沿技术落地，支撑企业智能化转型
+- **个人特质**：乐于技术分享，具备团队协作与指导能力
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 💼 工作经历
 
-- Bulleted
-- List
+### 成都昕昌科技有限公司 | Java开发工程师
+**2021.03 - 至今**  
+**项目背景**：北京美中爱瑞肿瘤医院医疗信息化系统开发  
+**核心职责**：
+- 主导基础服务建设，完成网关、通知中心、规则引擎等6大核心组件研发
+- 负责业务系统需求迭代、技术方案设计与代码审核
+- 推动新技术落地（如AI Agent服务），通过POC验证可行性  
+  **成果**：
+- 设计电子病历后端架构，通过国家4级评审并完成肿瘤上报
+- 构建微服务日志链路追踪体系，日志查询效率提升10倍
 
-1. Numbered
-2. List
+### 成都蜀道云通科技有限公司 | Java开发工程师
+**2020.05 - 2021.03**  
+**项目背景**：大数据可视化与系统运维  
+**核心职责**：
+- 主导四川交投物流客商系统需求调研、架构设计与开发
+- 完成四川农信智能贷款大屏及成都大运会交通协调中心大屏开发  
+  **成果**：
+- 从需求到部署全流程参与，积累完整产品研发经验
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## 🛠️ 项目经历
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### AI Agent服务体系建设
+**2025.01 - 至今** | 技术角色：架构设计、后端开发
+- 构建统一问答接口平台，支持多LLM动态路由
+- 开发数据连接器服务，实现企业内部数据动态检索增强
+- 基于LiteFlow实现流程编排，提升业务灵活性
 
-### Jekyll Themes
+### 微服务日志链路追踪体系
+**技术栈**：Spring Cloud | Elasticsearch | 飞书API
+- 设计全链路追踪方案，日志查询效率从分钟级优化至秒级
+- 集成飞书告警联动机制，异常定位时间缩短至5分钟内
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jugheadzhou/jugheadzhou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 电子病历系统
+**技术栈**：Spring Boot | MySQL | ISO标准协议
+- 主导后端架构设计，开发病历质控管理、数据同步等核心功能
+- 设计电子病历内容标准化协议，提升开发效率30%
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 📚 教育经历
+**西南交通大学希望学院 | 计算机科学与技术 | 本科**  
+**2016 - 2020**
+- **毕业设计**：《基于SpringCloud的微服务架构权限管理系统》
+- **竞赛奖项**：全国中青杯数学建模三等奖、互联网+校级二等奖
+
+---
+
+## 🏆 技能清单
+- **后端框架**：Spring Cloud/Spring Boot
+- **架构设计**：微服务、消息驱动、数据驱动
+- **工程工具**：Git、Docker、LiteFlow
+- **数据库**：MySQL、Postgree、Elasticsearch
+- **其他**：Axure RP（原型设计）、BPMN流程建模  
